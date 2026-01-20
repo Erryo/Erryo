@@ -42,6 +42,6 @@ Python scripts for DJI Tello drones - making drones dance through code.
 
 <div align="center">
 
-*"Code is poetry written in logic"*
+*"AI Quote goes here"*
 
 </div>
