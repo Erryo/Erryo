@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building projects across multiple domains - from game development to physics simulations, web applications, and more. 
+I'm a passionate developer who loves building projects from multiple domains  - game development, physics simulations, web applications, and more. 
 
 
 
@@ -31,13 +31,13 @@ A comprehensive repository of all my personal code projects including:
 - Various CLI tools and utilities
 
 ### ⚛️ [decay_chain](https://github.com/Erryo/decay_chain)
-A simple simulator to visualize decay chains - bringing physics concepts to life through code.
+A simple simulator to visualize decay chains 
 
 ### 🌐 [Infys-Universe](https://github.com/Erryo/Infys-Universe)
-A website/web app to learn about web development - a complete rewrite exploring modern web technologies.
+A website/web app to learn about web development
 
 ### 🚁 [info_wpu](https://github.com/Erryo/info_wpu)
-Python scripts for DJI Tello drones - making drones dance through code.
+Python scripts for DJI Tello drones and a simple Drone Simulator to connect to the library
 
 
 <div align="center">
